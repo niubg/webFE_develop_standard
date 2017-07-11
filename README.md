@@ -260,16 +260,17 @@ Web前端开发规范文档
 		变量名的前缀
 			-->如下表
 
->   类型				前缀	类型			实例
->   数组				a			Array			aItems
->   布尔值			b			Boolean		bIsComplete
->   浮点数			f			Float			fPrice
->   函数				fn		Function	fnHandler
->   整数				i			Integer		iItemCount
->   对象				o			Object		oDiv1
->   正则表达式	re		RegExp		reEmailCheck
->   字符串			s			String		sUserName
->   变体变量		v			Variant		vAnything
+>   |类型       |前缀   |类型          |实例          |
+>   | --------- |:-----:| ------------:| ------------:|
+>   |数组       |a      |Array         |aItems        |
+>   |布尔值     |b      |Boolean       |bIsComplete   |
+>   |浮点数     |f      |Float         |fPrice        |
+>   |函数       |fn     |Function      |fnHandler     |
+>   |整数       |i      |Integer       |iItemCount    |
+>   |对象       |o      |Object        |oDiv1         |
+>   |正则表达式 |re     |RegExp        |reEmailCheck  |
+>   |字符串     |s      |String        |sUserName     |
+>   |变体变量   |v      |Variant       |vAnything     |
 
 > -   代码格式。
 >
